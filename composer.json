@@ -1,5 +1,5 @@
 {
-	"name" : "php7-cascade-ws-ns/php7-cascade-ws-ns",
+	"name" : "wingmingchan/php7-cascade-ws-ns",
 	"require": {
         "php": ">=7"
     }
