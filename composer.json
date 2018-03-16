@@ -1,3 +1,6 @@
 {
-	"name" : "php7-cascade-ws-ns/php7-cascade-ws-ns"
+	"name" : "php7-cascade-ws-ns/php7-cascade-ws-ns",
+	"require": {
+        "php": ">=7"
+    }
 }
